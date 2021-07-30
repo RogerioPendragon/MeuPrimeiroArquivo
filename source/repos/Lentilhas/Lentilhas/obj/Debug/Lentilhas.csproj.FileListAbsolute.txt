@@ -1,0 +1,14 @@
+C:\Users\Rogerio\source\repos\Lentilhas\Lentilhas\obj\Debug\Lentilhas.csprojAssemblyReference.cache
+C:\Users\Rogerio\source\repos\Lentilhas\Lentilhas\obj\Debug\Lentilhas.csproj.CoreCompileInputs.cache
+C:\Users\Rogerio\source\repos\Lentilhas\Lentilhas\bin\Debug\Lentilhas.exe.config
+C:\Users\Rogerio\source\repos\Lentilhas\Lentilhas\bin\Debug\Lentilhas.exe
+C:\Users\Rogerio\source\repos\Lentilhas\Lentilhas\bin\Debug\Lentilhas.pdb
+C:\Users\Rogerio\source\repos\Lentilhas\Lentilhas\obj\Debug\Lentilhas.exe
+C:\Users\Rogerio\source\repos\Lentilhas\Lentilhas\obj\Debug\Lentilhas.pdb
+C:\Users\Itautec\source\repos\Lentilhas\Lentilhas\bin\Debug\Lentilhas.exe.config
+C:\Users\Itautec\source\repos\Lentilhas\Lentilhas\bin\Debug\Lentilhas.exe
+C:\Users\Itautec\source\repos\Lentilhas\Lentilhas\bin\Debug\Lentilhas.pdb
+C:\Users\Itautec\source\repos\Lentilhas\Lentilhas\obj\Debug\Lentilhas.csproj.AssemblyReference.cache
+C:\Users\Itautec\source\repos\Lentilhas\Lentilhas\obj\Debug\Lentilhas.csproj.CoreCompileInputs.cache
+C:\Users\Itautec\source\repos\Lentilhas\Lentilhas\obj\Debug\Lentilhas.exe
+C:\Users\Itautec\source\repos\Lentilhas\Lentilhas\obj\Debug\Lentilhas.pdb
