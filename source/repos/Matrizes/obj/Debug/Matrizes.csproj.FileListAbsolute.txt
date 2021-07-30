@@ -1,0 +1,7 @@
+C:\Users\Itautec\source\repos\Matrizes\bin\Debug\Matrizes.exe.config
+C:\Users\Itautec\source\repos\Matrizes\bin\Debug\Matrizes.exe
+C:\Users\Itautec\source\repos\Matrizes\bin\Debug\Matrizes.pdb
+C:\Users\Itautec\source\repos\Matrizes\obj\Debug\Matrizes.csprojAssemblyReference.cache
+C:\Users\Itautec\source\repos\Matrizes\obj\Debug\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Itautec\source\repos\Matrizes\obj\Debug\Matrizes.exe
+C:\Users\Itautec\source\repos\Matrizes\obj\Debug\Matrizes.pdb
